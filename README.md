@@ -13,7 +13,7 @@ This project demonstrates the use of Git and GitHub for version control and coll
 2. Navigate to the project folder: `cd repo-name`
 3. Follow the usage instructions in `simple-interest.sh`
 
-## Usage
+## Usage F
 To calculate simple interest, run the following command:
 ```bash
 ./simple-interest.sh
